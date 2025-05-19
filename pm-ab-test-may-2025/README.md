@@ -1,1 +1,1 @@
-The sqlite database contains the same information as the csv files, was generated using the csv files as input and exists only for convenience and use with datasette
+The sqlite database contains the same information as the csv files, was generated using the csv files as input and exists only for convenience and use with [datasette](https://lite.datasette.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmallpdf%2Fpm-assignment-data%2Fmain%2Fpm-ab-test-may-2025%2Fsmallpdf_ab_test.db)
